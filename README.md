@@ -1,2 +1,1 @@
-# PracticalAssessment
-Practical Assessment With QTI 3 
+# Practical Assessment Design, Using QTI 3 
